@@ -24,3 +24,17 @@ Git Z3Solver https://github.com/Z3Prover/z3 For Java
 -     Get it working
 
 Create a GUI to display the information.
+
+=================================
+2nd set of tasks
+
+Try https://github.com/classicwuhao/uran/tree/master/src/examples/nqueen
+
+Understand example
+
+Look at N-Queen problem
+Formalize it. Gain an understandign for self.
+
+Focusing on Propositional Logic
+
+Must consider what to use for website GUI.
